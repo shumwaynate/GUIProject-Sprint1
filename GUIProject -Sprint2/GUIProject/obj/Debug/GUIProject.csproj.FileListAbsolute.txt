@@ -1,0 +1,22 @@
+C:\Users\nates\source\repos\GUIProject\GUIProject\bin\Debug\GUIProject.exe.config
+C:\Users\nates\source\repos\GUIProject\GUIProject\bin\Debug\GUIProject.exe
+C:\Users\nates\source\repos\GUIProject\GUIProject\bin\Debug\GUIProject.pdb
+C:\Users\nates\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.AssemblyReference.cache
+C:\Users\nates\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\nates\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.Properties.Resources.resources
+C:\Users\nates\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.GenerateResource.cache
+C:\Users\nates\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.CoreCompileInputs.cache
+C:\Users\nates\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.exe
+C:\Users\nates\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.pdb
+C:\Users\nates\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.Form1.resources
+C:\Users\nates\source\repos\GUIProject -Sprint2\GUIProject\bin\Debug\GUIProject.exe.config
+C:\Users\nates\source\repos\GUIProject -Sprint2\GUIProject\bin\Debug\GUIProject.exe
+C:\Users\nates\source\repos\GUIProject -Sprint2\GUIProject\bin\Debug\GUIProject.pdb
+C:\Users\nates\source\repos\GUIProject -Sprint2\GUIProject\obj\Debug\GUIProject.csproj.AssemblyReference.cache
+C:\Users\nates\source\repos\GUIProject -Sprint2\GUIProject\obj\Debug\GUIProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\nates\source\repos\GUIProject -Sprint2\GUIProject\obj\Debug\GUIProject.Form1.resources
+C:\Users\nates\source\repos\GUIProject -Sprint2\GUIProject\obj\Debug\GUIProject.Properties.Resources.resources
+C:\Users\nates\source\repos\GUIProject -Sprint2\GUIProject\obj\Debug\GUIProject.csproj.GenerateResource.cache
+C:\Users\nates\source\repos\GUIProject -Sprint2\GUIProject\obj\Debug\GUIProject.csproj.CoreCompileInputs.cache
+C:\Users\nates\source\repos\GUIProject -Sprint2\GUIProject\obj\Debug\GUIProject.exe
+C:\Users\nates\source\repos\GUIProject -Sprint2\GUIProject\obj\Debug\GUIProject.pdb
