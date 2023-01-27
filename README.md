@@ -5,7 +5,7 @@ I intend on using this knowledge to help me to learn more Syntax for C# and be a
 scripted projects in Unity in the future. This code is written in C# using a Windows Forms free template included in Windows 
 .NET Frameworks.
 
-{Provide a description of the software that you wrote to demonstrate the C# language.}
+Software Description
 
 This software I created when run creates a User interface box that pops up. This GUI Allows the user to get the area or perimeter 
 of a two dimensional shape they choose. The User is also able to get a visual representation of the shape chosen and input lengths in the specific 
@@ -14,13 +14,12 @@ enable one input box, two for a rectangle, and for a circle it enables a circle 
 selected whether they want area or perimeter, the user can click the calculate button and a widow will pop up displaying the 
 calutulated Values.
 
-{Describe your purpose for writing this software.}
+Purpose:
 
 The Purpose of writing this Software was to learn more about correct definitions and syntax for items in C#. This software was 
 also created as the first of five Coding projects to add to my proffesional coding portfolio demonstrating my coding abilities. 
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the 
-code. Focus should be on sharing what you learned about the language syntax.}
+Visual Demo:
 
 Here is a visual demo of my finished program.
 [Software Demo Video](http://youtube.link.goes.here)
